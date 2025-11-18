@@ -13,6 +13,7 @@ dataset:
 
 ### data_analysis.sql
 A SQL file that consisting of code for grouping and filtering different data groups that may be useful in finding in trends.
+The same dataset was used as in data_cleaning.sql.
 
 ### excel_project_dataset.xlsx
 An Excel file consisting of a dataset on bike sales, pivot tables created from the cleaned data, and a dashboard made up of the visualizations of the pivot tables.
