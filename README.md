@@ -18,5 +18,5 @@ The same dataset was used as in data_cleaning.sql.
 ### excel_project_dataset.xlsx
 An Excel file consisting of a dataset on bike sales, pivot tables created from the cleaned data, and a dashboard made up of the visualizations of the pivot tables.
 
-### AirBnB_projects.twb
+### airBnB_projects.twbx
 A Tableau file consisting of a dashboard with different visualizations for data trends based on a dataset of AirBnBs in Seattle in 2016.
