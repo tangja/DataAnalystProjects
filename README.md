@@ -20,3 +20,6 @@ An Excel file consisting of a dataset on bike sales, pivot tables created from t
 
 ### airBnB_project.twbx
 A Tableau file consisting of a dashboard with different visualizations for data trends based on a dataset of AirBnBs in Seattle in 2016.
+
+### data_jobs_survey_project.pbix
+A PowerBI file consisting of a dashboard with different visualizations for data trends based on a survey taken by data professionals of various fields in June 2022. Includes visualizations for average salaries, sex, preferred programming languages, and countries of the survey participants. 
